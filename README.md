@@ -1,4 +1,4 @@
-# 🛡️ Suspicious Transaction Detection (AML)
+# 🛡️ Suspicious Transaction Detection (AML) 
 
 This project focuses on detecting suspicious (money laundering) transactions using machine learning techniques on a large synthetic Anti-Money Laundering (AML) dataset. It applies various models and data preprocessing steps to identify fraudulent activity with high precision and recall.
 
